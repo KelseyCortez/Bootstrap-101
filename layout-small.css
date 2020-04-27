@@ -1,0 +1,64 @@
+html, body {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    background-color:#FFD5D1;
+    
+}
+
+.small-navborder {
+    border: 1px solid blueviolet;
+}
+
+h2 {
+    font-size: 65px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+.card{
+    margin-top: 20px;
+    padding-left: 20px;
+    background: transparent;
+    height: 95%;
+    width: 50%;
+    border: none;
+    color: rgb(81, 42, 153);
+}
+.card-text {
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fun {
+    color: rgb(35, 194, 146);
+}
+
+.button {
+    size: 1px;
+    flex-shrink: inherit;
+}
+/* img {
+    display: flex;
+    margin-top: 0px;
+    width: 50%;
+    height: 500%;
+    align-items: flex-end;
+    float: right; */
+
+
+/* header {
+    margin-top: 0;
+
+
+} */
+
+/* .Container {
+    display: flex;
+} */
+
+/* .Container2 {
+    display: flex;
+    flex-direction: column;
+
+}
